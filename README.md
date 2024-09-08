@@ -33,3 +33,4 @@ Real time crocodile encounters in NT.
 Bar chart representing historical data on crocodile encounters.
 ### snap: 
 Snapshot of tourism perfomance in NT for the year 2023. This was taken from one of the sources sited in the challenge.
+### full link on the edited video: https://hellont.my.canva.site/
